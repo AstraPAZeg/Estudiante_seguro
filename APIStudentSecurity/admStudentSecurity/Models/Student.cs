@@ -1,10 +1,8 @@
-﻿
-
-namespace APIStudentSecurity.Models
+﻿namespace admStudentSecurity.Models
 {
     using System;
     using System.ComponentModel.DataAnnotations;
-        
+
     public class Student
     {
         [Key]
